@@ -1,2 +1,2 @@
 # javascript
-exercícios prof guanabara
+Exercícios proposto pelo Prof Guanabara
